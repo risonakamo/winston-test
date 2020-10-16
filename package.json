@@ -1,0 +1,14 @@
+{
+  "name": "winstontest",
+  "version": "1.0.0",
+  "scripts": {
+    "run": "tsc && node build/test"
+  },
+  "dependencies": {
+    "@types/node": "^14.11.8",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}

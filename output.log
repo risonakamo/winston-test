@@ -1,0 +1,16 @@
+undefined
+info: hello
+undefined
+undefined
+info: hello {"timestamp":"2020-10-16T14:47:38.776Z"}
+info: hello {"timestamp":"2020-10-16T14:47:59.690Z"}
+info: hello {"timestamp":"2020-10-16T14:48:31.194Z"}
+info: hello {"timestamp":"2020-10-16T14:48:47.530Z"}
+{"level":"info","message":"hello"}
+hello
+2020-10-16T14:57:54.850Zhello
+201016 10:59:40hello
+201016 11:01:59 hello
+201016 11:02:37 hello
+201016 11:03:30 hello
+201016 11:17:38 hello
